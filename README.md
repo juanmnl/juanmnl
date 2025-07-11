@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+```js
+<!-- Structured data for personal website -->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "name": "Juan Manuel Cornejo",
+  "jobTitle": "GUI Designer",
+  "url": "https://your-domain.com",
+  "sameAs": ["https://github.com/juanmnl"]
+}
+</script>
+```
+
 <!-- <img align="left" alt="Juanmnl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=juanmnl&show_icons=true&hide_border=true"> -->
 
 <!--
