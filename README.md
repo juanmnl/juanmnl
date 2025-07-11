@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ```js
-<!-- Structured data for personal website -->
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
