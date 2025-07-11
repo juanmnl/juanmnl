@@ -7,7 +7,7 @@
   "@type": "Person",
   "name": "Juan Manuel Cornejo",
   "jobTitle": "GUI Designer",
-  "url": "https://your-domain.com",
+  "url": "https:/www.juanmnl.com",
   "sameAs": ["https://github.com/juanmnl"]
 }
 </script>
